@@ -1,15 +1,15 @@
 .lilas{
     background-color: rgb(138, 43, 226);
     height: 250px;
-    width: max-content;
+    width: 100%;
     display: flex;
     justify-content: center;
 }
 .divRosa{
     background-color: #ff80ff;
-    height: max-content;
     width: 250px;
-    border: red 20px dashed;
+    height: auto;
+    border: 20px solid red;
 }
 .verdeAgua{
     background-color: rgb(86, 240, 219);
